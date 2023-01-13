@@ -3,7 +3,7 @@ Gunicorn
 Twilio
 Flask_mysqldb
 Openai
-Json
+json
 Duffel
 Mysql.connector
 Config
