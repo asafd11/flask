@@ -177,8 +177,8 @@ def checkforuser(msgg_from,mydb,mycursor):
 
 @app.route("/sms", methods=['GET', 'POST'])
 def sms_reply():
-    if True:
-        return "working 1"
+    #if True:
+        #return "working 1"
     """Respond to incoming calls with a simple text message."""
     # Start our TwiML response
     mydb,mycursor=getconnection()
