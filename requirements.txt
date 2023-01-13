@@ -1,2 +1,9 @@
 Flask
 Gunicorn
+Twilio
+Flask_mysqldb
+Openai
+Json
+Duffel
+Mysql.connector
+Config
