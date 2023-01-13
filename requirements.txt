@@ -3,6 +3,6 @@ Gunicorn
 Twilio
 Flask_mysqldb
 Openai
-Duffel
+Duffel_api
 Mysql.connector
 
